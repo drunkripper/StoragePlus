@@ -7,7 +7,6 @@ public class Controller extends Block{
 
 	public Controller(Material materialIn) {
 		super(materialIn);
-		// TODO Auto-generated constructor stub
 	}
 
 	
