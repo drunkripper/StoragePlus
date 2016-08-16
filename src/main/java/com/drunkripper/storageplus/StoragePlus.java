@@ -39,19 +39,10 @@ public class StoragePlus
     	
     	
     	
+    	BlockRegistry blockRegistry = new BlockRegistry();
+    	blockRegistry.initBlocks();
     	
-    	
-    	
-    	
-    	
-    	
-    	Block StorageNetworkBlock = new StorageNetwork(Material.ROCK);
-		StorageNetworkBlock.setCreativeTab(CreativeTabs.BREWING);
-		StorageNetworkBlock.setHardness(0.1F);
-		StorageNetworkBlock.setHarvestLevel("pickaxe", 1);
-		StorageNetworkBlock.setLightLevel(15F);
-		StorageNetworkBlock.setRegistryName("network_block");
-    	GameRegistry.registerBlock(StorageNetworkBlock);
+    
     
     
     
