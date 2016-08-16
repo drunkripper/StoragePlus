@@ -1,0 +1,16 @@
+[
+{
+  "modid": "storageplus",
+  "name": "StoragePlus",
+  "description": "My dream version of Applied Energistics.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://drunkripper.com/storageplus/",
+  "updateUrl": "http://drunkripper.com/storageplus/latest",
+  "authorList": ["drunkripper"],
+  "credits": "The authors for making the mod, and forge developers for making this mod possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
